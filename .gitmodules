@@ -1,0 +1,15 @@
+[submodule "pandas"]
+	path = pandas
+	url = https://github.com/esarrazin/pandas-cookbook.git
+[submodule "xarray"]
+	path = xarray
+	url = https://github.com/esarrazin/xarray-cookbook.git
+[submodule "dask"]
+	path = dask
+	url = https://github.com/esarrazin/dask-tutorial.git
+[submodule "large-dataset"]
+	path = large-dataset
+	url = https://github.com/esarrazin/large-dataset-cookbook
+[submodule "parallel"]
+	path = parallel
+	url = https://github.com/esarrazin/parallel-cookbook

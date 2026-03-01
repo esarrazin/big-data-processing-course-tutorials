@@ -1,6 +1,6 @@
-# Big data processing exercices
+# Big data processing exercises
 
-## Prerequistes 
+## Prerequisites 
 
 Install [pixi](https://pixi.sh/latest/)
 

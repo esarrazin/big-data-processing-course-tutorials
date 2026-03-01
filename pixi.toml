@@ -1,0 +1,22 @@
+[workspace]
+authors = ["Emmanuelle Sarrazin <emmanuelle.sarrazin@cnes.fr>"]
+channels = ["conda-forge"]
+name = "big-data-processing-course-tutorials"
+description = "Tutorials for big data processing course"
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.14.*"
+pip = ">=26.0.1,<27"
+numba = ">=0.63.1,<0.64"
+pandas = ">=3.0.1,<4"
+numpy = ">=2.3.5,<3"
+jupyterlab = ">=4.5.4,<5"
+matplotlib = ">=3.10.8,<4"
+geopandas = ">=1.1.2,<2"
+geodatasets = ">=2026.1.0,<2027"
+
+
