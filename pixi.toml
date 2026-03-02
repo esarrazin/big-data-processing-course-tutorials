@@ -18,5 +18,10 @@ jupyterlab = ">=4.5.4,<5"
 matplotlib = ">=3.10.8,<4"
 geopandas = ">=1.1.2,<2"
 geodatasets = ">=2026.1.0,<2027"
+xarray = ">=2026.2.0,<2027"
+h5netcdf = ">=1.8.1,<2"
+netcdf4 = ">=1.7.4,<2"
+scikit-learn = ">=1.8.0,<2"
+joblib = ">=1.5.3,<2"
 
 
