@@ -1,4 +1,4 @@
-# Big data processing exercises
+# Big data processing tutorials
 
 ## Prerequisites 
 
@@ -7,8 +7,8 @@ Install [pixi](https://pixi.sh/latest/)
 ## Installation
 
 ```bash
-git clone --recurse-submodules
-cd big_data_processing_course_tp
+git clone --recurse-submodules https://github.com/esarrazin/big-data-processing-course-tutorials.git
+cd big-data-processing-course-tutorials
 pixi install 
 ```
 
@@ -16,5 +16,5 @@ pixi install
 
 ```bash
 pixi shell
-jupyter-lab
+jupyter lab
 ```
